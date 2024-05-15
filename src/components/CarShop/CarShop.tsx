@@ -1,4 +1,3 @@
-import React from 'react'
 import Car from '../Car/Car'
 
 export default function CarShop():JSX.Element {

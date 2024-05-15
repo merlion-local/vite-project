@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import style from './Cocktail.module.css';
 
 export default function Cocktail(): JSX.Element {

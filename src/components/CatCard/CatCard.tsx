@@ -1,6 +1,5 @@
 import MyButton from "../myButtom/MyButton";
 import CatImage from "../catImage/CatImage";
-import styles from '../catImage/CatImage.module.css'
 
 
 import { FC, useEffect, useState } from "react";

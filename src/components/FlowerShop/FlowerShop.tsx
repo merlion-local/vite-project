@@ -1,4 +1,3 @@
-import React from "react";
 import Flower from "../Flower/Flower";
 
 export default function FlowerShop() {
