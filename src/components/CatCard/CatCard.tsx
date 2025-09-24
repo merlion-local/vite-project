@@ -41,7 +41,7 @@ const CatCard: FC = () => {
         <div>
             <h1>CatCARD</h1>
             <p>{text}</p>
-            <CatImage img={img} />
+            <CatImage img={img} /><br />
             <MyButton text ="меняю факт  о кошке" onClick={()=>{fetchCat(); fetchCatImg();}} />
         </div>
     );
